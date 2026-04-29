@@ -1,4 +1,4 @@
-## About me
+## Acerca de mi
 
 Soy estudiante de desarrollo de software con interés en la programación backend y el desarrollo de aplicaciones en Java. Me gusta construir proyectos prácticos para mejorar mis habilidades en programación orientada a objetos y entender cómo funcionan los sistemas reales.
 
