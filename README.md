@@ -5,3 +5,17 @@ Soy estudiante de desarrollo de software con interés en la programación backen
 Actualmente estoy aprendiendo a trabajar con Java, Git y GitHub, además de buenas prácticas de desarrollo como la organización del código y el uso de control de versiones.
 
 Mi objetivo es seguir mejorando como desarrollador y poder crear aplicaciones funcionales, bien estructuradas y escalables.
+
+## Proyectos
+
+### JavaCar
+Sistema de gestión de alquiler de vehículos en Java.  
+🔗 https://github.com/berserker012299-boop/JavaCar.git
+
+### CV Web
+Currículum web hecho con HTML y CSS.  
+🔗 https://github.com/berserker012299-boop/Resume.git
+
+### Skycrapper-Puzzle
+Currículum web hecho con HTML y CSS.  
+🔗 https://github.com/berserker012299-boop/SkyCrapper-Puzlle.git
