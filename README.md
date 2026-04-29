@@ -17,5 +17,5 @@ Currículum web hecho con HTML y CSS.
 🔗 https://github.com/berserker012299-boop/Resume.git
 
 ### Skycrapper-Puzzle
-Puzzle hecho en Java
+Puzzle hecho en Java. 
 🔗 https://github.com/berserker012299-boop/SkyCrapper-Puzlle.git
