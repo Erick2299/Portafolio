@@ -11,7 +11,7 @@
   <text x="64" y="58" font-family="'Courier New', monospace" font-size="22" font-weight="700" fill="#e6edf3" letter-spacing="1">Erick Pérez</text>
 
   <!-- Role -->
-  <text x="64" y="82" font-family="'Courier New', monospace" font-size="13" fill="#58a6ff" letter-spacing="2">DESARROLLADOR JUNIOR</text>
+  <text x="64" y="82" font-family="'Courier New', monospace" font-size="13" fill="#58a6ff" letter-spacing="2">SOFTWARE DEVELOPER · JAVA · BACKEND</text>
 
   <!-- Decorative dots top-right -->
   <circle cx="618" cy="38" r="3" fill="#58a6ff" opacity="0.3"/>
@@ -21,6 +21,7 @@
   <!-- Bottom thin line -->
   <rect x="48" y="98" width="200" height="1" fill="#58a6ff" opacity="0.2"/>
 </svg>
+
 ## Acerca de mi
 
 Soy estudiante de desarrollo de software con interés en la programación backend y el desarrollo de aplicaciones en Java. Me gusta construir proyectos prácticos para mejorar mis habilidades en programación orientada a objetos y entender cómo funcionan los sistemas reales.
